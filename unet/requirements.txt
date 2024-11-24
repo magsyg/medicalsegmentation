@@ -1,0 +1,5 @@
+monai
+matplotlib
+notebook
+nibabel
+tqdm

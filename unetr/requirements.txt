@@ -1,0 +1,6 @@
+monai
+matplotlib
+notebook
+nibabel
+einops
+tqdm
